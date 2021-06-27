@@ -1,2 +1,2 @@
 # WorkingWithTaskSample
-Представляет собой простой пример продолжения или прерывания выполнения Task по достижении заданных условий.
+It is a simple example of continuation and breaking work of Task, based on some conditions.
